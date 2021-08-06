@@ -1,0 +1,320 @@
+.navbar_pro{position:fixed;height:60px; box-shadow:1px 8px 10px #888888;width:100%;z-index:500;background-color: #fff}
+.logo{position:relative;left:20px;}
+.links{color:grey;font-size:1.2rem;top:10px}
+.Course{position: relative;left:200px}
+.About{position: relative;left: 250px}
+.Home{position: relative;left:150px}
+
+.registar{position: relative;left: 550px;top: 5px}
+.register_btn{width: 250px;height: 50px;background-color: darkorange;border:none;color:white;font-weight: 500;font-size:1.1rem}
+.contact{position: relative;left:550px;top: 5px}
+.contact_btn{width: 250px;height: 50px;border:2px solid darkorange;color:darkorange;font-weight: 500;font-size:1.1rem;background-color: white}
+
+.topheading{position: absolute;top:70px;z-index: 2;width: 50%;left: 20px;color: #4b4b4b;font-size: 2.rem}
+.topheading1{position: absolute;top:270px;z-index: 2;left: 20px;color: #4d4d4d}
+.topheading2{position: absolute;top:305px;z-index: 2;left: 20px;color: #4d4d4d}
+.topheading3{position: absolute;top:340px;z-index: 2;left: 20px;color: #4d4d4d}
+.topheading4{position: absolute;top:420px;z-index: 2;left: 20px;color: #4d4d4d;width: 50%}
+.topheading5{position: absolute;top:500px;z-index: 2;left: 20px;color: #4d4d4d;width: 50%}
+.knowmore{position: absolute;top:590px;left:220px;z-index: 2}
+.how{position: absolute;top: 590px;left: 80px;}
+
+
+.top_image{position:absolute;z-index:0;width:80%;right: 0px;top:59px}
+
+.sub_heading{position: relative;top:100px;left: 50px;z-index: 1}
+
+
+.coursescard{position: absolute;top: 750px;text-align: center;margin: auto;left: 100px; }
+
+.cardinternal{text-align: center;position: relative;margin: auto;width: 20rem}
+.cardinternal:hover{ box-shadow:1px 8px 30px #dedede;}
+
+.need{;height: 500px;top: 1200px;position: relative}
+
+
+.register_btn:hover{background-color: white;color: darkorange;border:2px solid darkorange }
+.contact_btn:hover{background-color: darkorange;color: white;border: none}
+
+
+.develop{margin: 50px 0px 105px 0px;top: 1200px;position: relative;width:70%;text-align: center;left: 200px;box-shadow:1px 8px 50px #dedede;}
+.work{top: 1200px;position: relative; height: 1600px;color: #292929;}
+.us{top: 1200px;position: relative}
+.location{height: 200px;top: 1200px;position: relative;background-color:#00b6cf}
+
+.rocket{margin:20px 00px;width:30%}
+.create{margin:20px 0px;width:30%}
+.algo{margin:20px 0px;width:30%}
+.logic{margin:20px 0px;width:30%}
+.heading_about{text-align: center;margin-top: 10px}
+
+
+.uspara{text-align: left;font-size:1.1rem;width: 80%;margin: auto;position: relative;top:52px;line-height: 1.7;font-weight: 500;color: #525252}
+
+.heading_how{text-align: center;font-weight:400}
+.why{text-align: center;margin-bottom:40px}
+.deve{text-align: center}
+.registar2{position: relative;text-align: center;margin: auto;left: 550px;bottom:130px}
+.best{height: 500px;top: 1200px;position: relative;height:100px;background-color: #fff4e8;margin-top:20px;margin:40px 0px 80px 0px}
+.registar3{position: absolute;bottom:28px; ;margin: auto;right:80px}
+
+.fun{position: absolute;top:28px;left: 20px;font-weight:400;color: #2f2f2f}
+
+
+.whatsapp_float {
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#ffffff;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+        font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+        z-index:100;
+}
+
+.whatsapp-icon {
+	margin-top:16px;
+}
+/* for mobile */
+@media screen and (max-width: 767px){
+     .whatsapp-icon {
+	 margin-top:10px;
+     }
+    .whatsapp_float {
+        width: 40px;
+        height: 40px;
+        bottom: 20px;
+        right: 10px;
+        font-size: 22px;
+    }
+}
+
+
+.table_heading1{text-align: center;margin-top: 20px;font-size: 1.25rem;font-weight: 600 ;color:#585858}
+.table_heading2{text-align: center;margin-top: 20px;font-size: 1.25rem;font-weight: 600 ;color:#585858}
+.table_heading3{text-align: center;margin-top: 20px;font-size: 1.25rem;font-weight: 600 ;color:#585858}
+.table_heading4{text-align: center;margin-top: 20px;font-size: 1.25rem;font-weight: 600 ;color:#585858}
+
+
+.about_container{width:100%}
+
+
+#uspara2{margin:20px 0px 20px 70px;font-weight: 700;color:#00b6cf}
+
+.certificate_img{position: relative;right:100px;bottom:120px}
+.student_work{position: relative;top: 1200px}
+.top10{text-align: center;margin: 100px 0px 100px 0px;font-weight:400;line-height: 3rem}
+
+.step2_img{position: relative;top:12px;left: 2px}
+.step3_img{width:14%;display:inline;position:relative;top:25px;left:30px}
+.step1_img{position: relative;top:26px;left: 20px}
+.step4_img{width:16%;display:inline;position: relative;top:30px;left:20px; }
+.step5_img{width:10%;display:inline;position: relative;top:45px;left:50px}
+.step6_img{width:13%;display:inline;position: relative;top:28px;left:15px}
+.step1_div{width:80%;margin: auto;background-color: #fff;}
+.step_heading1{position: relative;bottom:90px;width:300px;left:200px}
+.step_para1{position: relative;width:450px;bottom: 90px;left: 200px;font-size:1.2rem}
+
+.step2_div{width:80%;margin: auto;background-color: #fff;}
+.step_heading2{position: relative;bottom:120px;width:300px;left: 200px}
+.step_para2{position: relative;width:480px;bottom:120px;left: 200px;font-size:1.2rem}
+
+
+.step3_div{width:80%;margin:auto;background-color: #fff;}
+.step_heading3{position: relative;bottom:100px;width:390px;left: 210px}
+.step_para3{position: relative;width:620px;bottom: 100px;left: 210px;font-size:1.2rem}
+
+.step4_div{width:80%;margin: auto;background-color: #fff;}
+.step_heading4{position: relative;bottom:90px;width:500px;left:200px}
+.step_para4{position: relative;width:600px;bottom:90px;left: 200px;font-size:1.2rem}
+
+
+.step5_div{width:80%;margin: auto;background-color: #fff;}
+.step_heading5{position: relative;bottom:60px;width:400px;left: 200px;}
+.step_para5{position: relative;width:650px;bottom:60px;left: 200px;font-size:1.2rem}
+
+
+
+.step6_div{width:80%;margin: auto;background-color:#fff;}
+.step_heading6{position: relative;bottom:90px;width:400px;left: 200px}
+.step_para6{position: relative;width:650px;bottom:90px;left:200px;font-size:1.2rem}
+
+.step-div{border-radius: 200px;height:200px;margin: 50px auto;background-image: linear-gradient(to right,white,#00b6cfb5);border: 2px solid;border-color:#57cfe0;}
+
+
+.need_para{font-size: 1.3rem}
+.need_div{position:absolute}
+
+.follow{display: inline;}
+
+.insta{position:relative;left:30px;}
+.facebook{position:relative;left:35px;top: 10px}
+.linkdin{position:relative;left:55px;top:20px}
+.fotter_container{}
+
+.follow1{color:white;}
+.follow2{position: relative;top: 10px;color:white;}
+.follow3{position: relative;top: 20px;color:white;}
+
+.fotter_contact{position:relative;left: 50px;color:#ffffff}
+.number{text-align: center;margin: auto;position: relative;left:50px;color:white;font-size: 1.2rem}
+.email{position: relative;left: 50px;color: grey;font-size: 1.2rem;color: white}
+
+.start{color:white}
+.follow_heading{color:white}
+.number_one{color: #525252;position: relative;top: 10px;}
+
+.top10{width: 80%;margin:100px auto}
+
+.made{position: relative;display: inline;width: 200px;left:120px;bottom:s0px}
+.copyright{height: 50px;position: relative;}
+.heart{width:2%;position: relative;left:120px;bottom:0px }
+.copy{position: relative;width: 150px;top:40px;left:600px}
+.slider{top: 1200px;position: relative;color: #292929; width:75%;margin:120px auto}
+.able{margin-bottom:30px;text-align: center;}
+.course_slider{visibility:visible}
+
+
+
+
+
+
+
+
+
+@media(max-width:998px){.topheading{position: absolute;top:120px;z-index: 2;width: 50%;left: 20px;color: #ff0000;font-size: 2.0rem}
+.topheading1{position: absolute;top:275px;z-index: 2;left: 20px;color: #4d4d4d}
+.topheading2{position: absolute;top:315px;z-index: 2;left: 20px;color: #4d4d4d}
+.topheading3{position: absolute;top:350px;z-index: 2;left: 20px;color: #4d4d4d}
+.topheading4{position: absolute;top:400px;z-index: 2;left: 20px;color: #4d4d4d;width:40%}
+.topheading5{position: absolute;top:400px;z-index: 2;left: 20px;color: #4d4d4d;width: 50%;visibility: hidden;}
+.knowmore{position: absolute;top:520px;left:220px;z-index: 2}
+.how{position: absolute;top:520px;left: 80px;}
+.registar{position: relative;left:200px;top: 5px}
+.develop{margin: 50px 0px 105px 0px;top: 1200px;position: relative;width:70%;text-align: center;left: 150px;box-shadow:1px 8px 50px #dedede;}
+.navbar_pro{position:fixed;height:100px;box-shadow:1px 8px 10px #888888;width:100%;z-index:500;background-color: #fff}
+.links{color:grey;font-size:1.8rem;top:10px;font-weight: 900}    
+
+ .registar{position: relative;left: 398px;top:10px}
+.register_btn{width: 250px;height: 80px;background-color: darkorange;border:none;color:white;font-weight:500;font-size:1.4rem}   
+    
+.knowmore{position: absolute;top:780px;left:620px;z-index: 2;font-size: 2.2rem}
+.how{position: absolute;top: 780px;left:140px;font-size: 2.2rem}
+    
+.top_image{position:absolute;z-index:0;width:100%;right: 0px;top:59px}
+    
+ .coursescard{position: absolute;top:950px;text-align: center;margin: auto;left: 100px; }   
+.need{;height: 500px;top: 2000px;position: relative}    
+    
+ .develop{margin: 50px 0px 105px 0px;top:2350px;position: relative;width:80%;text-align: center;left: 100px;box-shadow:1px 8px 50px #dedede;height:650px}   
+ .slider{top:2300px;position: relative;color: #292929; width:100%;margin:120px auto}   
+    
+.us{top:2200px;position: relative}   
+.work{top:2300px;position: relative; height: 1600px;color: #292929;}   
+ .student_work{position: relative;top:2200px}   
+
+    
+.best{height: 500px;top:2200px;position: relative;height:100px;background-color: #fff4e8;margin-top:20px;margin:40px 0px 80px 0px}  
+    
+ .location{height: 200px;top:2200px;position: relative;background-color:#00b6cf}   
+ .cardinternal{text-align: center;position:relative;margin: auto;width:28rem;visibility:visible;right:100px}   
+
+.slider3{position: relative;top:20px}
+
+#card_c{position: relative;left:40px}
+#card_p{position: relative;left:40px;top: 50px}
+    
+.need_para{font-size:2rem;text-align: center;font-weight:500;color: #525252;}    
+.why{text-align: center;margin-bottom:40px;font-size: 3rem}   
+.rocket{margin:20px 00px 0px 0px;width:40%}    
+.create{margin:20px 0px;width:40%}    
+.algo{margin:20px 0px;width:40%}    
+.logic{margin:20px 0px;width:40%}    
+    
+ 
+.table_heading1{text-align: center;margin-top: 20px;font-size: 1.8rem;font-weight: 600 ;color:#585858}
+.table_heading2{text-align: center;margin-top: 20px;font-size: 1.8rem;font-weight: 600 ;color:#585858}
+.table_heading3{text-align: center;margin-top: 20px;font-size: 1.8rem;font-weight: 600 ;color:#585858}
+.table_heading4{text-align: center;margin-top: 20px;font-size: 1.8rem;font-weight: 600 ;color:#585858}   
+.certificate_img{position: relative;left:00px;bottom:00px;width: 100%}
+
+.uspara{text-align: left;font-size:2rem;width: 80%;margin: auto;position: relative;top:52px;line-height: 1.7;font-weight: 500;color: #525252;text-align: center;font-size: 2.5rem;width: 100%}   
+    
+#uspara2{margin:20px 0px 20px 70px;font-weight: 700;color:#00b6cf;position: relative;right: 50px}
+.registar2{position: relative;text-align: center;margin:auto;left: 360px;top:70px}   
+.heading_about{text-align: center;margin-top:10px;font-size: 3rem;}   
+    
+.step1_div{width:100%;margin: auto;background-color: #fff;height:300px}    
+    
+.step1_img{position: relative;top:26px;left:20px;width: 25%}    
+.step_heading1{position: relative;bottom:170px;width:400px;left:300px;font-size: 2.5rem}    
+    
+.step_para1{position: relative;width:650px;bottom: 170px;left:300px;font-size:2.2rem}    
+ .step2_div{width:100%;margin: auto;background-color: #fff;height:300px}   
+.step2_img{position: relative;top:26px;left:20px;width: 25%}     
+  .step_heading2{position: relative;bottom:170px;width:400px;left:300px;font-size: 2.5rem} .step_para2{position: relative;width:650px;bottom: 170px;left:300px;font-size:2.2rem}    
+    
+ 
+ .step3_div{width:100%;margin: auto;background-color: #fff;height:300px}   
+.step3_img{position: relative;top:46px;left:45px;width: 20%}     
+  .step_heading3{position: relative;bottom:170px;width:400px;left:300px;font-size: 2.5rem} .step_para3{position: relative;width:650px;bottom: 170px;left:300px;font-size:2.2rem}    
+       
+ .step4_div{width:100%;margin: auto;background-color: #fff;height:300px}   
+.step4_img{position: relative;top:46px;left:45px;width: 26%}     
+  .step_heading4{position: relative;bottom:150px;width:400px;left:300px;font-size: 2.5rem} .step_para4{position: relative;width:650px;bottom: 150px;left:300px;font-size:2.2rem}     
+    
+    
+       
+ .step5_div{width:100%;margin: auto;background-color: #fff;height:350px}   
+.step5_img{position: relative;top:86px;left:85px;width: 19%}     
+  .step_heading5{position: relative;bottom:150px;width:400px;left:300px;font-size: 2.5rem} .step_para5{position: relative;width:650px;bottom: 150px;left:300px;font-size:2.2rem}        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
