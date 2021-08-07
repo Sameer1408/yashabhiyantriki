@@ -732,34 +732,34 @@ transition: background-color 1s ease;}
     font-size:2.8rem;
     }
     .footer_p{
-        font-size:1.6rem;
+        font-size:2rem;
         text-align: center;
         margin-bottom:40px;
         margin-top: 20px;
     }
     .quick{text-align: center;
-        font-size: 2rem;
+        font-size: 3rem;
         
     }
     .quick_links1{text-align: center;
         position: relative;
-        left:420px;
-        font-size: 1.8rem;
+        left:410px;
+        font-size: 2.8rem;
     }
      .quick_links2{text-align: center;
         position: relative;
-        left:400px;
-        font-size: 1.8rem;
+        left:375px;
+        font-size: 2.8rem;
     }
       .quick_links3{text-align: center;
         position: relative;
-        left:385px;
-        font-size: 1.8rem;
+        left:355px;
+        font-size: 2.8rem;
     }     
      .quick_links4{text-align: center;
         position: relative;
-        left:395px;
-        font-size: 1.8rem;
+        left:380px;
+        font-size: 2.8rem;
     } 
     .contact_footer_h{text-align: center;
         font-size:2.5rem;
@@ -767,8 +767,8 @@ transition: background-color 1s ease;}
         
     }
     .menu{height:750px;
-    text-align: center;background-color: #959595;}
-
+    text-align: center;background-color: #959595;position: fixed;bottom:0px;z-index: 100;
+    width:980}
     .menu-link{font-size:3rem;text-align: center;
     display: inline-block;position:relative;left:00;
     
