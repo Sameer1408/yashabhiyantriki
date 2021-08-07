@@ -766,8 +766,15 @@ transition: background-color 1s ease;}
         color: #4d4d4d;
         
     }
-    
+    .menu{height:750px;
+    text-align: center;background-color: #959595;}
 
+    .menu-link{font-size:3rem;text-align: center;
+    display: inline-block;position:relative;left:00;
+    
+    color: white;
+        line-height: 2;
+    }
         
 
 }
