@@ -844,7 +844,7 @@ transition: background-color 1s ease;}
     .footer_quick{padding-left: 2rem;}
     
     .menu{height:750px;
-    background-color: #000;top:7.9rem;z-index: 100;
+    background-color: #000;z-index: 100;
     width:980;}
     .menu-link{font-size:3rem;text-align: center;
     display: inline-block;position:relative;left:00;
