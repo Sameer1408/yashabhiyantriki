@@ -539,7 +539,7 @@ font-size:0.9rem;
    
     .mobile_nav{display: block;
      width: 100%;
-    position: fixed;
+    
     top: 0;
     left: 0;
     transition: background-color .5s ease;
