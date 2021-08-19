@@ -816,11 +816,11 @@ font-size:0.9rem;
     color:white;
     box-shadow: 2px 2px 10px grey;
     margin-left:-200px;
-
     }
-    #yellow{margin-top:-30px
-    }
-    #blue{margin-top:-30px
+    #green{background-color: fab702}
+    #yellow{margin-top:-30px;background-color: fab702    }
+    #blue{margin-top:-30px;
+        background-color: fab702
     }
     
      #green:hover{background-color:white;

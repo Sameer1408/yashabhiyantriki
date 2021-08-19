@@ -2,3 +2,15 @@
    top:110;
     margin-bottom: 20px;
 }
+@media(max-width:998px){
+    .os{
+        position: relative;
+        top:410;
+        margin-bottom: 20px;
+    }
+
+}
+#l{
+    position: relative;
+    margin-top: -80
+}
