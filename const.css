@@ -441,6 +441,7 @@ height:200px;
 
 figure{
     overflow: hidden;
+    margin left:-20px;
     
 }
 .image img{
