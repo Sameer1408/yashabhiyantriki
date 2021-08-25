@@ -614,7 +614,7 @@ font-size:0.9rem;
     height:8rem;
     color: white;
     background-color: black;
-       
+       border-bottom:4px solid gold;
     }
     .topslider{display: none;}
     .topslider_mobile{display:block; 
@@ -986,4 +986,12 @@ height:600px;
     position:relative;
     top: 20px;
 
+}
+.mobile_nav_h{
+    position: absolute;
+    top: 25px;
+    left: 20px;
+    font-size:4rem;
+    color: gold;
+   
 }
